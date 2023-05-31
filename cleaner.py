@@ -29,7 +29,7 @@ for line in intermediate[:10]:
 
 
 #TODO: decide on english formatting
-
+#test commit for linter
 
 
 # final formatting
