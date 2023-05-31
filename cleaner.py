@@ -33,4 +33,15 @@ for line in intermediate[:10]:
 
 
 # final formatting
-fields = ["Southwestern Ojibwe", "English(raw)", "English(formatted)" ]
+# fields = ["Southwestern Ojibwe", "English(raw)", "English(formatted)" ]
+fields = ["Southwestern Ojibwe", "English(raw)"]
+
+rows = intermediate     #TODO: change this to final
+
+with open('cleaned.txt', 'w') as f:
+      
+    # using csv.writer method from CSV package
+    write = csv.writer(f)
+      
+    write.writerow(fields)
+    write.writerows(rows)
