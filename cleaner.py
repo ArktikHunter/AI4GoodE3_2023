@@ -15,14 +15,14 @@ print("____RAW_____")
 for line in data[:10]:
     print(line)         
 
-# Clip the verb form data
+# Minor preprocessing
 intermediate = []
 for line in data:
     if '\t' in line:
-        line = line[line.find('\t')+1:]   
-    intermediate.append(line)
+        line = line[line.find('\t')+1:]         # Clip the verb form data
+    intermediate.append(line.split(maxsplit=1)) # Split Ojibwe from raw English
 
-#DEBUG - display data after clipping
+#DEBUG - display data after preprocessing
 print("____INTER_____")
 for line in intermediate[:10]:
     print(line)         
