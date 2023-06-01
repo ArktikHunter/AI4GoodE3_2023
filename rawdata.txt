@@ -421,9 +421,6 @@ pakkitte'okooyampan 'people hit you (sg.)' (X→2s TA Conjunct Preterit)
 V-ikooyan (X→2s)	waapamikooyan 'people see you (sg.)' (X→2s TA Conjunct Indicative)
 noontaakooyan 'people hear you (sg.)' (X→2s TA Conjunct Indicative)
 pakkitte'okooyan 'people hit you (sg.)' (X→2s TA Conjunct Indicative)
-V-ikooyan (1p→2s)	
-No examples in the database
-
 V-ikooyankipan (X→21)	waapamikooyankipan 'people saw us (incl.)' (X→21 TA Conjunct Preterit)
 noontaakooyankipan 'people heard us (incl.)' (X→21 TA Conjunct Preterit)
 pakkitte'okooyankipan 'people hit us (incl.)' (X→21 TA Conjunct Preterit)
@@ -660,8 +657,6 @@ pakkitte'okoyankipan 'it, they (inan.) hit us (incl.)' (0→21 TA Conjunct Prete
 V-ikoyek (X→2p)	waapamikoyek 'people see you (pl.)' (X→2p TA Conjunct Indicative)
 noontaakoyek 'people hear you (pl.)' (X→2p TA Conjunct Indicative)
 pakkite'okoyek 'people hit you (pl.)' (X→2p TA Conjunct Indicative)
-V-ikoyek (1p→2p)	
-No examples in the database
 V-ikoyek (0→2p)	waapamikoyek 'it, they (inan.) see you (pl.)' (0→2p TA Conjunct Indicative)
 noontaakoyek 'it, they (inan.) hear you (pl.)' (0→2p TA Conjunct Indicative)
 pakkitte'okoyek 'it, they (inan.) hit you (pl.)' (0→2p TA Conjunct Indicative)
@@ -1742,18 +1737,12 @@ kimpakkitte'okonaawaatokenan 'they (inan.) must be hitting you (pl.)' (0p→2p T
 ki-V-ikonan (0p→2s)	kiwaapamikonan 'they (inan.) see you (sg.)' (0p→2s TA Independent Indicative)
 kinoontaakonan 'they (inan.) hear you (sg.)' (0p→2s TA Independent Indicative)
 kimpakkitte'okonan 'they (inan.) hit you (sg.)' (0p→2s TA Independent Indicative)
-ki-V-ikoo (1p→2s)	
-No examples in the database
-
 ki-V-ikoo (X→2s)	kiwaapamikoo 'people see you (sg.)' (X→2s TA Independent Indicative)
 kinoontaakoo 'people hear you (sg.)' (X→2s TA Independent Indicative)
 kimpakkitte'okoo 'people hit you (sg.)' (X→2s TA Independent Indicative)
 ki-V-ikook (3p→2s)	kiwaapamikook 'they (anim.) see you (sg.)' (3p→2s TA Independent Indicative)
 kinoontaakook 'they (anim.) hear you (sg.)' (3p→2s TA Independent Indicative)
 kimpakkitte'okook 'they (anim.) hit you (sg.)' (3p→2s TA Independent Indicative)
-ki-V-ikoom (1p→2p)	
-No examples in the database
-
 ki-V-ikoom (X→2p)	kiwaapamikoom 'people see you (pl.)' (X→2p TA Independent Indicative)
 kinoontaakoom 'people hear you (pl.)' (X→2p TA Independent Indicative)
 kimpakkitte'okoom 'people hit you (pl.)' (X→2p TA Independent Indicative)
