@@ -18,16 +18,18 @@ for line in data[:10]:
 # Minor preprocessing
 intermediate = []
 for line in data:
-    line = line.replace('"', "")
+    #line = line.replace('"', "")
 
     if '\t' in line:
         line = line[line.find('\t')+1:]         # Clip the verb form data
     processed = line.split(maxsplit=1)          # Split Ojibwe from raw English
-    index = processed[1].rindex("(")            # Split off the conjugation feature
+    index = processed[1].rindex("(")                                # Split off the conjugation feature
     processed[1:] = [processed[1][:index-1], processed[1][index:]]
 
     # clean up some punctuation
     processed[1] = processed[1].strip("'")
+    processed[1] = processed[1].strip('"')
+    #if '"' in processed[1]: processed[1] = processed[1].strip('"')
     processed[2] = processed[2].strip("()")
 
     intermediate.append(processed)
