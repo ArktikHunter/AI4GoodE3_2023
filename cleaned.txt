@@ -1,4 +1,4 @@
-Southwestern Ojibwe,English(raw),Conjugation
+Southwestern Ojibwe,English(raw),Conjugation,English(formatted)
 maacaa,s/he leaves,3s AI Independent Indicative
 niimi,s/he dances,3s AI Independent Indicative
 waniššin,s/he is lost,3s AI Independent Indicative

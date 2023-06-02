@@ -44,30 +44,37 @@ final = []
 for entry in intermediate:
     fin_entry = [a for a in entry]   # make a copy
     raw = entry[1]
+    
 
     # get rid of current grammar tags
     if "(" in raw:
         start = raw.index("(")
         end = raw.index(")")
 
-        fin_entry[1] = raw[:start] + raw[end:]
+        fin_entry[1] = raw[:start-1] + raw[end+1:]
         raw = fin_entry[1]
 
     if "," in raw:     # need to duplicate this entry
-        fin_entry.append(raw.replace("they", "").replace("s/he", "they(sing.)"))
+        fin_entry.append(raw.replace("they", "").replace("s/he, ", "they(sing.)"))
 
         fin_entry2 = [a for a in entry]
-        fin_entry2.append(raw.replace("s/he", "").replace("they", "they(plur.)"))
+        fin_entry2.append(raw.replace("s/he, ", "").replace("they", "they(plur.)"))
 
         final.append(fin_entry2)
 
     else:                   # else just swap one or the other
         if "s/he" in raw:    
-            fin_entry.append("FLAG" + raw.replace("s/he", "they(sing.)"))   #"FLAG" is for human to verify english grammar after
-            
+            if "Indicative" in entry[2]: #sets "FLAG" for human to verify english grammar 
+                fin_entry.append("FLAG" + raw.replace("s/he", "they(sing.)"))   
+            else:   # no grammar issues in the other tenses
+                fin_entry.append(raw.replace("s/he", "they(sing.)"))   
+
         elif "they" in raw:
             fin_entry.append(raw.replace("they", "they(plur.)"))
 
+    if len(fin_entry) != 4:
+        fin_entry.append(raw)
+        
     final.append(fin_entry)
 
 
