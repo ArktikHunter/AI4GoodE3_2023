@@ -13,7 +13,7 @@ import csv
 # pylint: disable=unnecessary-comprehension
 
 # Read in the data
-with open("rawdata.txt") as f:
+with open("rawdata.txt", "r", encoding="utf-8") as f:
     data = [line.strip() for line in f.readlines()]
 
 # DEBUG - display raw data
@@ -75,7 +75,6 @@ for entry in intermediate:
 
     else:  # else just swap one or the other
         if "s/he" in raw:
-            # pylint: disable=bad-continuation
             if (
                 "Indicative" in entry[2]
             ):  # sets "FLAG" for human to verify english grammar
@@ -143,7 +142,7 @@ fields = ["Southwestern Ojibwe", "English(raw)", "Conjugation", "English(formatt
 
 rows = final
 
-with open("cleaned.txt", "w") as f:
+with open("cleaned.txt", "w", encoding="utf-8") as f:
 
     # using csv.writer method from CSV package
     write = csv.writer(f)
@@ -152,7 +151,7 @@ with open("cleaned.txt", "w") as f:
     write.writerows(rows)
 
 # DEBUG - maacaa examples
-with open("maacaa.txt", "w") as f:
+with open("maacaa.txt", "w", encoding="utf-8") as f:
 
     # using csv.writer method from CSV package
     write = csv.writer(f)
