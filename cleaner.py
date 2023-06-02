@@ -107,6 +107,8 @@ for entry in subject:
         elif "him/her" in entry[3]:
             entry[3] = entry[3].replace("him/her", "them(sing.)")
 
+    final.append(entry)
+
 
 #DEBUG - display data after preprocessing
 print("____FINAL_____")
