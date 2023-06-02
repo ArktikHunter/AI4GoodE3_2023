@@ -2326,7 +2326,7 @@ o-V-ansiinaawaapan (3p→0s)	owaapantansiinaawaapan 'they (anim.) did not see it
 o-V-ansiinaawaapanen (3p→0p)	owaapantansiinaawaapanen 'they (anim.) did not see them (inan.)' (3p→0p TI1 Independent Preterit)
 o-V-ansiinaawaatok (3p→0s)	owaapantansiinaawaatok 'they (anim.) must not be seeing it' (3p→0s TI1 Independent Dubitative)
 o-V-ansiinaawaatokenan (3p→0p)	owaapantansiinaawaatokenan 'they (anim.) must not be seeing them (inan.)' (3p→0p TI1 Independent Dubitative)
-o-V-ansiinan (3s→0p)	owaapantansiinan 's/he, does not see them (inan.)' (3s→0p TI1 Independent Indicative)
+o-V-ansiinan (3s→0p)	owaapantansiinan 's/he does not see them (inan.)' (3s→0p TI1 Independent Indicative)
 o-V-ansiininaapan (3'→0s)	owaapantansiininaapan 's/he, they (obv.) did not see it' (3'→0s TI1 Independent Preterit)
 o-V-ansiininaapanen (3'→0p)	owaapantansiininaapanen 's/he, they (obv.) did not see them (inan.)' (3'→0p TI1 Independent Preterit)
 o-V-ansiininaatok (3'→0s)	owaapantansiininaatok 's/he, they (obv.) must not be seeing it' (3'→0s TI1 Independent Dubitative)

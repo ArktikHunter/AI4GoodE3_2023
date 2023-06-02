@@ -123,7 +123,9 @@ for line in final:
 
 #DEBUG - are there any entries with a comma left in them?
 for entry in final:
-    if "," in entry[3]: print(entry)
+    if "," in entry[3] or "/" in entry[3]: 
+        print(entry)
+        entry[3] = "FLAG" + entry[3]
 
         
 # final formatting
