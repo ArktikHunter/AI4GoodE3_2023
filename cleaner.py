@@ -28,34 +28,70 @@ for line in data:
 
     # clean up some punctuation
     processed[1] = processed[1].strip("'")
-    processed[1] = processed[1].strip('"')
-    #if '"' in processed[1]: processed[1] = processed[1].strip('"')
     processed[2] = processed[2].strip("()")
 
     intermediate.append(processed)
 
 #DEBUG - display data after preprocessing
 print("____INTER_____")
-for line in intermediate[:20]:
+for line in intermediate[:10]:
     print(line)         
 
-#DEBUG - pull out 'maacaa - to leave' examples 
-maacaa = []
-for line in intermediate:
-    if "maacaa" in line[0] or "leav" in line[1]:
-        maacaa.append(line)
 
 
 #TODO: decide on english formatting
-#test commit for linter
+final = []
+for entry in intermediate:
+    fin_entry = [a for a in entry]   # make a copy
+    raw = entry[1]
+
+    # get rid of current grammar tags
+    if "(" in raw:
+        start = raw.index("(")
+        end = raw.index(")")
+
+        fin_entry[1] = raw[:start] + raw[end:]
+        raw = fin_entry[1]
+
+    if "," in raw:     # need to duplicate this entry
+        fin_entry.append(raw.replace("they", "").replace("s/he", "they(sing.)"))
+
+        fin_entry2 = [a for a in entry]
+        fin_entry2.append(raw.replace("s/he", "").replace("they", "they(plur.)"))
+
+        final.append(fin_entry2)
+
+    else:                   # else just swap one or the other
+        if "s/he" in raw:    
+            fin_entry.append("FLAG" + raw.replace("s/he", "they(sing.)"))   #"FLAG" is for human to verify english grammar after
+            
+        elif "they" in raw:
+            fin_entry.append(raw.replace("they", "they(plur.)"))
+
+    final.append(fin_entry)
+
+
+#DEBUG - display data after preprocessing
+print("____FINAL_____")
+for line in final[:10]:
+    print(line)  
+
+#DEBUG - pull out 'maacaa - to leave' examples 
+maacaa = []
+for line in final:
+    if "maacaa" in line[0] or "leav" in line[1]:
+        maacaa.append(line)
+
+        
+
 
 
 
 
 
 # final formatting
-# fields = ["Southwestern Ojibwe", "English(raw)", "Conjugation", "English(formatted)" ]
-fields = ["Southwestern Ojibwe", "English(raw)", "Conjugation"]
+fields = ["Southwestern Ojibwe", "English(raw)", "Conjugation", "English(formatted)" ]
+#fields = ["Southwestern Ojibwe", "English(raw)", "Conjugation"]
 
 rows = intermediate     #TODO: change this to final
 
