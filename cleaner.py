@@ -35,25 +35,36 @@ print("____INTER_____")
 for line in intermediate[:10]:
     print(line)         
 
-final = []
+subject = []
 for entry in intermediate:
     fin_entry = [a for a in entry]   # make a copy
     raw = entry[1]
     
     # get rid of current grammar tags
-    if "(" in raw:
+    while "(" in raw:
         start = raw.index("(")
         end = raw.index(")")
 
         raw = raw[:start-1] + raw[end+1:]
 
-    if "," in raw:     # need to duplicate this entry
-        fin_entry.append(raw.replace("they", "").replace("s/he, ", "they(sing.)"))
+    # clean subject
+    if "s/he, they" in raw:     # need to duplicate this entry
+        fin_entry.append(raw.replace("s/he, they", "they(sing.)"))
 
         fin_entry2 = [a for a in entry]
-        fin_entry2.append(raw.replace("s/he, ", "").replace("they", "they(plur.)"))
+        fin_entry2.append(raw.replace("s/he, they", "they(plur.)"))
 
-        final.append(fin_entry2)
+        subject.append(fin_entry2)
+
+    elif "it, they" in raw: 
+        if "Indicative" in entry[2]: #sets "FLAG" for human to verify english grammar 
+            fin_entry.append("FLAG" + raw.replace("it, they", "it"))
+        else: fin_entry.append(raw.replace("it, they", "it"))
+
+        fin_entry2 = [a for a in entry]
+        fin_entry2.append(raw.replace("it, they", "they(plur.)"))
+
+        subject.append(fin_entry2)
 
     else:                   # else just swap one or the other
         if "s/he" in raw:    
@@ -68,7 +79,33 @@ for entry in intermediate:
     if len(fin_entry) != 4:
         fin_entry.append(raw)
 
-    final.append(fin_entry)
+    subject.append(fin_entry)
+
+# iterate over it again T.T to fix object
+final = []
+for entry in subject:
+    if "it, them" in entry[3]:
+        fin_entry2 = [a for a in entry]
+        fin_entry2[3] = entry[3].replace("it, them", "it")
+
+        entry[3] = entry[3].replace("it, them", "them(plur.)")
+
+        final.append(fin_entry2)
+    
+    elif "him/her, them" in entry[3]:
+        fin_entry2 = [a for a in entry]
+        fin_entry2[3] = entry[3].replace("him/her, them", "them(sing.)")
+
+        entry[3] = entry[3].replace("him/her, them", "them(plur.)")
+
+        final.append(fin_entry2)
+    
+    else:
+        if "them" in entry[3]:
+            entry[3] = entry[3].replace("them", "them(plur.)")
+
+        elif "him/her" in entry[3]:
+            entry[3] = entry[3].replace("him/her", "them(sing.)")
 
 
 #DEBUG - display data after preprocessing
@@ -81,6 +118,10 @@ maacaa = []
 for line in final:
     if "maacaa" in line[0] or "leav" in line[1]:
         maacaa.append(line)
+
+#DEBUG - are there any entries with a comma left in them?
+for entry in final:
+    if "," in entry[3]: print(entry)
 
         
 # final formatting
