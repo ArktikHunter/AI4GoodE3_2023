@@ -18,8 +18,6 @@ for line in data[:10]:
 # Minor preprocessing
 intermediate = []
 for line in data:
-    #line = line.replace('"', "")
-
     if '\t' in line:
         line = line[line.find('\t')+1:]         # Clip the verb form data
     processed = line.split(maxsplit=1)          # Split Ojibwe from raw English
@@ -37,22 +35,17 @@ print("____INTER_____")
 for line in intermediate[:10]:
     print(line)         
 
-
-
-#TODO: decide on english formatting
 final = []
 for entry in intermediate:
     fin_entry = [a for a in entry]   # make a copy
     raw = entry[1]
     
-
     # get rid of current grammar tags
     if "(" in raw:
         start = raw.index("(")
         end = raw.index(")")
 
-        fin_entry[1] = raw[:start-1] + raw[end+1:]
-        raw = fin_entry[1]
+        raw = raw[:start-1] + raw[end+1:]
 
     if "," in raw:     # need to duplicate this entry
         fin_entry.append(raw.replace("they", "").replace("s/he, ", "they(sing.)"))
@@ -74,7 +67,7 @@ for entry in intermediate:
 
     if len(fin_entry) != 4:
         fin_entry.append(raw)
-        
+
     final.append(fin_entry)
 
 
@@ -90,17 +83,10 @@ for line in final:
         maacaa.append(line)
 
         
-
-
-
-
-
-
 # final formatting
 fields = ["Southwestern Ojibwe", "English(raw)", "Conjugation", "English(formatted)" ]
-#fields = ["Southwestern Ojibwe", "English(raw)", "Conjugation"]
 
-rows = intermediate     #TODO: change this to final
+rows = final
 
 with open('cleaned.txt', 'w') as f:
       

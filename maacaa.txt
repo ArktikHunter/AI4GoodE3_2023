@@ -1,139 +1,139 @@
 Southwestern Ojibwe,English(raw),Conjugation,English(formatted)
 maacaa,s/he leaves,3s AI Independent Indicative,FLAGthey(sing.) leaves
 maacaatok,s/he must be leaving,3s AI Independent Dubitative,they(sing.) must be leaving
-maacaatokenak,they must be leaving,3p AI Independent Dubitative,they(plur.) must be leaving
+maacaatokenak,they (anim.) must be leaving,3p AI Independent Dubitative,they(plur.) must be leaving
 maacaatokenan,"s/he, they (obv.) must be leaving",3' AI Independent Dubitative,they(plur.) must be leaving
-maacaatokenan,"s/he, they must be leaving",3' AI Independent Dubitative,they(sing.) must be leaving
+maacaatokenan,"s/he, they (obv.) must be leaving",3' AI Independent Dubitative,they(sing.) must be leaving
 maacaanit,"s/he, they leave",3' AI Conjunct Indicative,they(plur.) leave
 maacaanit,"s/he, they leave",3' AI Conjunct Indicative,they(sing.) leave
 maacaank,people leave,X AI Conjunct Indicative,people leave
 maacaankipan,people left,X AI Conjunct Preterit,people left
 maacaakopan,s/he must have left,3s AI Independent Dubitative Preterit,they(sing.) must have left
 maacaakopanen,s/he must have left,3s AI Conjunct Dubitative Preterit,they(sing.) must have left
-maacaakwaapan,they must have left,3p AI Independent Dubitative Preterit,they(plur.) must have left
+maacaakwaapan,they (anim.) must have left,3p AI Independent Dubitative Preterit,they(plur.) must have left
 maacaawaat,they leave,3p AI Conjunct Indicative,they(plur.) leave
 maacaapan,s/he left,3s AI Independent Preterit,they(sing.) left
-maacaapanek,they left,3p AI Independent Preterit,they(plur.) left
+maacaapanek,they (anim.) left,3p AI Independent Preterit,they(plur.) left
 maacaapanen,"s/he, they (obv.) left",3' AI Independent Preterit,they(plur.) left
-maacaapanen,"s/he, they left",3' AI Independent Preterit,they(sing.) left
+maacaapanen,"s/he, they (obv.) left",3' AI Independent Preterit,they(sing.) left
 maacaayaampaan,I left,1s AI Conjunct Preterit,I left
 maacaayaan,I leave,1s AI Conjunct Indicative,I leave
-maacaayaank,we leave,1p AI Conjunct Indicative,we leave
-maacaayaankipan,we left,1p AI Conjunct Preterit,we left
-maacaayampan,you left,2s AI Conjunct Preterit,you left
-maacaayan,you leave,2s AI Conjunct Indicative,you leave
-maacaayank,we leave,21 AI Conjunct Indicative,we leave
-maacaayankipan,we left,21 AI Conjunct Preterit,we left
-maacaayek,you leave,2p AI Conjunct Indicative,you leave
-maacaayekipan,you left,2p AI Conjunct Preterit,you left
+maacaayaank,we (excl.) leave,1p AI Conjunct Indicative,we leave
+maacaayaankipan,we (excl.) left,1p AI Conjunct Preterit,we left
+maacaayampan,you (sg.) left,2s AI Conjunct Preterit,you left
+maacaayan,you (sg.) leave,2s AI Conjunct Indicative,you leave
+maacaayank,we (incl.) leave,21 AI Conjunct Indicative,we leave
+maacaayankipan,we (incl.) left,21 AI Conjunct Preterit,we left
+maacaayek,you (pl.) leave,2p AI Conjunct Indicative,you leave
+maacaayekipan,you (pl.) left,2p AI Conjunct Preterit,you left
 mayaacaakwen,s/he must be leaving,3s AI Conjunct Dubitative,they(sing.) must be leaving
 maacaam,people leave,X AI Independent Indicative,people leave
 maacaamwaapan,people left,X AI Independent Preterit,people left
 maacaamwaatok,people must be leaving,X AI Independent Dubitative,people must be leaving
 maacaanikopan,"s/he, they (obv.) must have left",3' AI Independent Dubitative Preterit,they(plur.) must have left
-maacaanikopan,"s/he, they must have left",3' AI Independent Dubitative Preterit,they(sing.) must have left
+maacaanikopan,"s/he, they (obv.) must have left",3' AI Independent Dubitative Preterit,they(sing.) must have left
 maacaanikopanen,"s/he, they (obv.) must have left",3' AI Conjunct Dubitative Preterit,they(plur.) must have left
-maacaanikopanen,"s/he, they must have left",3' AI Conjunct Dubitative Preterit,they(sing.) must have left
+maacaanikopanen,"s/he, they (obv.) must have left",3' AI Conjunct Dubitative Preterit,they(sing.) must have left
 mayaacaanikwen,"s/he, they (obv.) must be leaving",3' AI Conjunct Dubitative,they(plur.) must be leaving
-mayaacaanikwen,"s/he, they must be leaving",3' AI Conjunct Dubitative,they(sing.) must be leaving
+mayaacaanikwen,"s/he, they (obv.) must be leaving",3' AI Conjunct Dubitative,they(sing.) must be leaving
 maacaanippan,"s/he, they (obv.) left",3' AI Conjunct Preterit,they(plur.) left
-maacaanippan,"s/he, they left",3' AI Conjunct Preterit,they(sing.) left
+maacaanippan,"s/he, they (obv.) left",3' AI Conjunct Preterit,they(sing.) left
 maacaappan,s/he left,3s AI Conjunct Preterit,they(sing.) left
 maacaassiikopan,s/he must not have left,3s AI Independent Dubitative Preterit,they(sing.) must not have left
 maacaassiikopanen,s/he must not have left,3s AI Conjunct Dubitative Preterit,they(sing.) must not have left
-maacaassiikwaapan,they must not have left,3p AI Independent Dubitative Preterit,they(plur.) must not have left
+maacaassiikwaapan,they (anim.) must not have left,3p AI Independent Dubitative Preterit,they(plur.) must not have left
 mayaacaassiikwen,s/he must not be leaving,3s AI Conjunct Dubitative,they(sing.) must not be leaving
 maacaassiim,people do not leave,X AI Independent Indicative,people do not leave
 maacaassiimwaapan,people did not leave,X AI Independent Preterit,people did not leave
 maacaassiin,s/he does not leave,3s AI Independent Indicative,FLAGthey(sing.) does not leave
 maacaassiinikopan,"s/he, they (obv.) must not have left",3' AI Independent Dubitative Preterit,they(plur.) must not have left
-maacaassiinikopan,"s/he, they must not have left",3' AI Independent Dubitative Preterit,they(sing.) must not have left
+maacaassiinikopan,"s/he, they (obv.) must not have left",3' AI Independent Dubitative Preterit,they(sing.) must not have left
 maacaassiinikopanen,"s/he, they (obv.) must not have left",3' AI Conjunct Dubitative Preterit,they(plur.) must not have left
-maacaassiinikopanen,"s/he, they must not have left",3' AI Conjunct Dubitative Preterit,they(sing.) must not have left
+maacaassiinikopanen,"s/he, they (obv.) must not have left",3' AI Conjunct Dubitative Preterit,they(sing.) must not have left
 mayaacaassiinikwen,"s/he, they (obv.) must not be leaving",3' AI Conjunct Dubitative,they(plur.) must not be leaving
-mayaacaassiinikwen,"s/he, they must not be leaving",3' AI Conjunct Dubitative,they(sing.) must not be leaving
+mayaacaassiinikwen,"s/he, they (obv.) must not be leaving",3' AI Conjunct Dubitative,they(sing.) must not be leaving
 maacaassiipan,s/he did not leave,3s AI Independent Preterit,they(sing.) did not leave
-maacaassiipanek,they did not leave,3p AI Independent Preterit,they(plur.) did not leave
+maacaassiipanek,they (anim.) did not leave,3p AI Independent Preterit,they(plur.) did not leave
 maacaassiipanen,"s/he, they (obv.) did not leave",3' AI Independent Preterit,they(plur.) did not leave
-maacaassiipanen,"s/he, they did not leave",3' AI Independent Preterit,they(sing.) did not leave
-maacaassiiwaakopanen,they must not have left,3p AI Conjunct Dubitative Preterit,they(plur.) must not have left
-mayaacaassiiwaakwen,they must not be leaving,3p AI Conjunct Dubitative,they(plur.) must not be leaving
+maacaassiipanen,"s/he, they (obv.) did not leave",3' AI Independent Preterit,they(sing.) did not leave
+maacaassiiwaakopanen,they (anim.) must not have left,3p AI Conjunct Dubitative Preterit,they(plur.) must not have left
+mayaacaassiiwaakwen,they (anim.) must not be leaving,3p AI Conjunct Dubitative,they(plur.) must not be leaving
 maacaassiiwaampaanen,I must not have left,1s AI Conjunct Dubitative Preterit,I must not have left
 mayaacaassiiwaanen,I must not be leaving,1s AI Conjunct Dubitative,I must not be leaving
-mayaacaassiiwaanken,we must not be leaving,1p AI Conjunct Dubitative,we must not be leaving
-maacaassiiwaankipanen,we must not have left,1p AI Conjunct Dubitative Preterit,we must not have left
-maacaassiiwak,they do not leave,3p AI Independent Indicative,they(plur.) do not leave
-maacaassiiwampanen,you must not have left,2s AI Conjunct Dubitative Preterit,you must not have left
+mayaacaassiiwaanken,we (excl.) must not be leaving,1p AI Conjunct Dubitative,we must not be leaving
+maacaassiiwaankipanen,we (excl.) must not have left,1p AI Conjunct Dubitative Preterit,we must not have left
+maacaassiiwak,they (anim.) do not leave,3p AI Independent Indicative,they(plur.) do not leave
+maacaassiiwampanen,you (sg.) must not have left,2s AI Conjunct Dubitative Preterit,you must not have left
 maacaassiiwan,"s/he, they (obv.) leave(s)",3' AI Independent Indicative,they(plur.) leave(s)
-maacaassiiwan,"s/he, they leave(s)",3' AI Independent Indicative,they(sing.) leave(s)
-mayaacaassiiwanen,you must not be leaving,2s AI Conjunct Dubitative,you must not be leaving
-mayaacaassiiwanken,we must not be leaving,21 AI Conjunct Dubitative,we must not be leaving
-maacaassiiwankipanen,we must not have left,21 AI Conjunct Dubitative Preterit,we must not have left
-maacaassiiwekipanen,you must not have left,2p AI Conjunct Dubitative Preterit,you must not have left
-mayaacaassiiwekwen,you must not be leaving,2p AI Conjunct Dubitative,you must not be leaving
+maacaassiiwan,"s/he, they (obv.) leave(s)",3' AI Independent Indicative,they(sing.) leave(s)
+mayaacaassiiwanen,you (sg.) must not be leaving,2s AI Conjunct Dubitative,you must not be leaving
+mayaacaassiiwanken,we (incl.) must not be leaving,21 AI Conjunct Dubitative,we must not be leaving
+maacaassiiwankipanen,we (incl.) must not have left,21 AI Conjunct Dubitative Preterit,we must not have left
+maacaassiiwekipanen,you (pl.) must not have left,2p AI Conjunct Dubitative Preterit,you must not have left
+mayaacaassiiwekwen,you (pl.) must not be leaving,2p AI Conjunct Dubitative,you must not be leaving
 mayaacaassiiwiinken,people must not be leaving,X AI Conjunct Dubitative,people must not be leaving
 maacaassiiwiinkipanen,people must not have left,X AI Conjunct Dubitative Preterit,people must not have left
 maacaassik,s/he does not leave,3s AI Conjunct Indicative,FLAGthey(sing.) does not leave
 maacaassikopan,s/he did not leave,3s AI Conjunct Preterit,they(sing.) did not leave
-maacaassikwaa,they do not leave,3p AI Conjunct Indicative,they(plur.) do not leave
-maacaassikwaapan,they did not leave,3p AI Conjunct Preterit,they(plur.) did not leave
+maacaassikwaa,they (anim.) do not leave,3p AI Conjunct Indicative,they(plur.) do not leave
+maacaassikwaapan,they (anim.) did not leave,3p AI Conjunct Preterit,they(plur.) did not leave
 maacaassinik,"s/he, they (obv.) do not leave",3' AI Conjunct Indicative,they(plur.) do not leave
-maacaassinik,"s/he, they do not leave",3' AI Conjunct Indicative,they(sing.) do not leave
+maacaassinik,"s/he, they (obv.) do not leave",3' AI Conjunct Indicative,they(sing.) do not leave
 maacaassinikopan,"s/he, they (obv.) did not leave",3' AI Conjunct Preterit,they(plur.) did not leave
-maacaassinikopan,"s/he, they did not leave",3' AI Conjunct Preterit,they(sing.) did not leave
+maacaassinikopan,"s/he, they (obv.) did not leave",3' AI Conjunct Preterit,they(sing.) did not leave
 maacaassink,people do not leave,X AI Conjunct Indicative,people do not leave
 maacaassinkipan,people did not leave,X AI Conjunct Preterit,people did not leave
 maacaassiwaampaan,I did not leave,1s AI Conjunct Preterit,I did not leave
 maacaassiwaan,I do not leave,1s AI Conjunct Indicative,I do not leave
-maacaassiwaank,we do not leave,1p AI Conjunct Indicative,we do not leave
-maacaassiwaankipan,we did not leave,1p AI Conjunct Preterit,we did not leave
-maacaassiwampan,you did not leave,2s AI Conjunct Preterit,you did not leave
-maacaassiwan,you do not leave,2s AI Conjunct Indicative,you do not leave
-maacaassiwank,we do not leave,21 AI Conjunct Indicative,we do not leave
-maacaassiwankipan,we did not leave,21 AI Conjunct Preterit,we did not leave
-maacaassiwek,you do not leave,2p AI Conjunct Indicative,you do not leave
-maacaassiwekipan,you did not leave,2p AI Conjunct Preterit,you did not leave
+maacaassiwaank,we (excl.) do not leave,1p AI Conjunct Indicative,we do not leave
+maacaassiwaankipan,we (excl.) did not leave,1p AI Conjunct Preterit,we did not leave
+maacaassiwampan,you (sg.) did not leave,2s AI Conjunct Preterit,you did not leave
+maacaassiwan,you (sg.) do not leave,2s AI Conjunct Indicative,you do not leave
+maacaassiwank,we (incl.) do not leave,21 AI Conjunct Indicative,we do not leave
+maacaassiwankipan,we (incl.) did not leave,21 AI Conjunct Preterit,we did not leave
+maacaassiwek,you (pl.) do not leave,2p AI Conjunct Indicative,you do not leave
+maacaassiwekipan,you (pl.) did not leave,2p AI Conjunct Preterit,you did not leave
 maacaat,s/he leaves,3s AI Conjunct Indicative,FLAGthey(sing.) leaves
-maacaawaakopanen,they must have left,3p AI Conjunct Dubitative Preterit,they(plur.) must have left
-mayaacaawaakwen,they must be leaving,3p AI Conjunct Dubitative,they(plur.) must be leaving
+maacaawaakopanen,they (anim.) must have left,3p AI Conjunct Dubitative Preterit,they(plur.) must have left
+mayaacaawaakwen,they (anim.) must be leaving,3p AI Conjunct Dubitative,they(plur.) must be leaving
 maacaawaampaanen,I must have left,1s AI Conjunct Dubitative Preterit,I must have left
 mayaacaawaanen,I must be leaving,1s AI Conjunct Dubitative,I must be leaving
-mayaacaawaanken,we must be leaving,1p AI Conjunct Dubitative,we must be leaving
-maacaawaankipanen,we must have left,1p AI Conjunct Dubitative Preterit,we must have left
-maacaawaappan,they left,3p AI Conjunct Preterit,they(plur.) left
-maacaawak,they leave,3p AI Independent Indicative,they(plur.) leave
-maacaawampanen,you must have left,2s AI Conjunct Dubitative Preterit,you must have left
+mayaacaawaanken,we (excl.) must be leaving,1p AI Conjunct Dubitative,we must be leaving
+maacaawaankipanen,we (excl.) must have left,1p AI Conjunct Dubitative Preterit,we must have left
+maacaawaappan,they (anim.) left,3p AI Conjunct Preterit,they(plur.) left
+maacaawak,they (anim.) leave,3p AI Independent Indicative,they(plur.) leave
+maacaawampanen,you (sg.) must have left,2s AI Conjunct Dubitative Preterit,you must have left
 maacaawan,"s/he, they (obv.) leave(s)",3' AI Independent Indicative,they(plur.) leave(s)
-maacaawan,"s/he, they leave(s)",3' AI Independent Indicative,they(sing.) leave(s)
-mayaacaawanen,you must be leaving,2s AI Conjunct Dubitative,you must be leaving
-mayaacaawanken,we must be leaving,21 AI Conjunct Dubitative,we must be leaving
-maacaawankipanen,we must have left,21 AI Conjunct Dubitative Preterit,we must have left
-maacaawekipanen,you must have left,2p AI Conjunct Dubitative Preterit,you must have left
-mayaacaawekwen,you must be leaving,2p AI Conjunct Dubitative,you must be leaving
+maacaawan,"s/he, they (obv.) leave(s)",3' AI Independent Indicative,they(sing.) leave(s)
+mayaacaawanen,you (sg.) must be leaving,2s AI Conjunct Dubitative,you must be leaving
+mayaacaawanken,we (incl.) must be leaving,21 AI Conjunct Dubitative,we must be leaving
+maacaawankipanen,we (incl.) must have left,21 AI Conjunct Dubitative Preterit,we must have left
+maacaawekipanen,you (pl.) must have left,2p AI Conjunct Dubitative Preterit,you must have left
+mayaacaawekwen,you (pl.) must be leaving,2p AI Conjunct Dubitative,you must be leaving
 mayaacaawiinken,people must be leaving,X AI Conjunct Dubitative,people must be leaving
 maacaawiinkipanen,people must have left,X AI Conjunct Dubitative Preterit,people must have left
-kimaacaa,you leave,2s AI Independent Indicative,you leave
-kimaacaam,you leave,2p AI Independent Indicative,you leave
-kimaacaamin,we leave,21 AI Independent Indicative,we leave
-kimaacaaminaapan,we left,21 AI Independent Preterit,we left
-kimaacaaminaatok,we must be leaving,21 AI Independent Dubitative,we must be leaving
-kimaacaamwaapan,you left,2p AI Independent Preterit,you left
-kimaacaamwaatok,you must be leaving,2p AI Independent Dubitative,you must be leaving
-kimaacaanaapan,you left,2s AI Independent Preterit,you left
-kimaacaanaatok,you must be leaving,2s AI Independent Dubitative,you must be leaving
-kimaacaassiim,you do not leave,2p AI Independent Indicative,you do not leave
-kimaacaamin,we do not leave,21 AI Independent Indicative,we do not leave
-kimaacaassiiminaapan,we did not leave,21 AI Independent Preterit,we did not leave
-kimaacaassiimwaapan,you did not leave,2p AI Independent Preterit,you did not leave
-kimaacaassiin,you do not leave,2s AI Independent Indicative,you do not leave
-kimaacaassiinaapan,you did not leave,2s AI Independent Preterit,you did not leave
+kimaacaa,you (sg.) leave,2s AI Independent Indicative,you leave
+kimaacaam,you (pl.) leave,2p AI Independent Indicative,you leave
+kimaacaamin,we (incl.) leave,21 AI Independent Indicative,we leave
+kimaacaaminaapan,we (incl.) left,21 AI Independent Preterit,we left
+kimaacaaminaatok,we (incl.) must be leaving,21 AI Independent Dubitative,we must be leaving
+kimaacaamwaapan,you (pl.) left,2p AI Independent Preterit,you left
+kimaacaamwaatok,you (pl.) must be leaving,2p AI Independent Dubitative,you must be leaving
+kimaacaanaapan,you (sg.) left,2s AI Independent Preterit,you left
+kimaacaanaatok,you (sg.) must be leaving,2s AI Independent Dubitative,you must be leaving
+kimaacaassiim,you (pl.) do not leave,2p AI Independent Indicative,you do not leave
+kimaacaamin,we (incl.) do not leave,21 AI Independent Indicative,we do not leave
+kimaacaassiiminaapan,we (incl.) did not leave,21 AI Independent Preterit,we did not leave
+kimaacaassiimwaapan,you (pl.) did not leave,2p AI Independent Preterit,you did not leave
+kimaacaassiin,you (sg.) do not leave,2s AI Independent Indicative,you do not leave
+kimaacaassiinaapan,you (sg.) did not leave,2s AI Independent Preterit,you did not leave
 nimaacaa,I leave,1s AI Independent Indicative,I leave
-nimaacaamin,We leave,1p AI Independent Indicative,We leave
-nimaacaaminaapan,we left,1p AI Independent Preterit,we left
-nimaacaaminaatok,we must be leaving,1p AI Independent Dubitative,we must be leaving
+nimaacaamin,We (excl.) leave,1p AI Independent Indicative,We leave
+nimaacaaminaapan,we (excl.) left,1p AI Independent Preterit,we left
+nimaacaaminaatok,we (excl.) must be leaving,1p AI Independent Dubitative,we must be leaving
 nimaacaanaapan,I left,1s AI Independent Preterit,I left
 nimaacaanaatok,I must be leaving,1s AI Independent Dubitative,I must be leaving
-nimaacaassiimin,we do not leave,1p AI Independent Indicative,we do not leave
-nimaacaassiiminaapan,we did not leave,1p AI Independent Preterit,we did not leave
+nimaacaassiimin,we (excl.) do not leave,1p AI Independent Indicative,we do not leave
+nimaacaassiiminaapan,we (excl.) did not leave,1p AI Independent Preterit,we did not leave
 nimaacaassiin,I do not leave,1s AI Independent Indicative,I do not leave
 nimaacaassiinaapan,I did not leave,1s AI Independent Preterit,I did not leave
