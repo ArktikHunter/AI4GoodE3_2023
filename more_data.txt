@@ -1,0 +1,792 @@
+Ojibwe,English
+inini,man
+ininiwak,men
+okimaa,chief
+okimaa,boss
+okimaak,chiefs
+okimaak,bosses
+nintaaniss,my daughter
+nintassnissak,my daughters
+amikk,beaver
+amikkwak,beavers
+aantek,crow
+aantekwak,crows
+memenkwaa,butterfly
+memenkwaak,butterflies
+name,sturgeon
+namewak,sturgeons
+nintootem,my totem
+nintootemak,my totems
+manitoo,manitou
+manitook,manitous
+ciipay,ghost
+ciipay,corpse
+ciipayak,ghosts
+ciipayak,corpses
+animikii,thunderer
+animikiik,thunderers
+ninciccaak,my soul
+ninciccaakwak,my souls
+pepaamaatisicik,traveler
+kicci-mookkomaan,butcher knife
+kicci-mookkomaanan,butcher knives
+kicci-mookkomaan,whiteman
+kicci-mookkomaanak,whitemen
+makkisin,shoe
+makkisinan,shoes
+makkisin,tire
+makkisinak,tires
+mittik,stick
+mittikoon,sticks
+mittik,tree
+mittikook,trees
+okkan,their(sing.) bone
+okkanan,their(sing.) bones
+okkan,sucking tube
+okkanak,sucking tubes
+otainwaakan,toy
+otaminwaakanan,toys
+otaminwaakan,doll
+otaminwaakanak,dolls
+nipi,water
+wiiyaass,meat
+siinsipaakkwat,sugar
+manoomin,wild rice
+niipowakatoon onaakanan,there are a lot of dishes
+niipowakat nipi,there is a lot of water
+wiikiwaam,wigwam
+wiikwaassikamik,birchbark lodge
+mantaamin,corn
+mantaamin,kernel of corn
+mantaaminak,kernels of corn
+piiwaapikk,metal
+piiwaapikk,piece of metal
+piiwaapikkoon,pieces of metal
+wanakekk,bark
+wanakekk,piece of bark
+wanakekkwak,pieces of bark
+miinan,blueberries
+wiinisiss,their(sing.) single hair
+wiinisissan,their(sing.) hair
+manitoominenss,seedbead
+manitoominenssak,seedbeads
+nikkak,Canada gooses
+nikkan,Canada goose
+waciwan,mountain
+kaakaakiwak,ravens
+kaakaakiwan,raven
+ciipayak,ghosts
+ciipayan,ghost
+nintayak,dogs
+nintayak,horses
+nintayan,dog
+nintayan,dogs
+kiikoonyak,fishes
+kiikoonyan,fish
+ininiwak,men
+ininiwan,man
+ootenawan,town
+ikkwewak,women
+ikkwewan,woman
+nimaamaa,my mother
+makkwak,bears
+makkwan,bear
+amikkwak,beavers
+amikkwan,beaver
+kaakwak,porcupines
+kaakwan,porcupine
+waakaakkwatoon,ax
+mittikwaapaakkook,hickory trees
+mittikwaapaakkoon,hickory tree
+kinepikook,snakes
+kinepikoon,snake
+akkiin,land
+apwiin,paddle
+assiniik,stones
+assiniin,stone
+omootayan,bottle
+ociipikkan,root
+nisitan,my feet
+nintootikkossiwak,kidneys
+nintootikkossiwan,kidney
+ninowak,cheeks
+ninowan,cheek
+ninkitikwak,knees
+ninkitikwan,knees
+miikkanan,road
+ninciimaaninaanin,our boats
+ociimaaninwaan,their boats
+kitakkikkowaak,your pails
+otakkikkowaan,their pails
+ociimaanini,the other's boat
+ociimaanini,the other's boats
+ociimaaninipanen,the other's former boats
+akkikkopanek,the former pails
+ciimaanipanen,the former boats
+waciw,mountain
+kaakaakiw,raven
+niiyaw,my body
+ciipay,ghost
+nintay,my dog
+nintay,my horse
+akkiwensii,old man
+inini,man
+ikkwe,woman
+waapoos,rabbit
+amikk,beaver
+kaak,porcupine
+ninkitik,my knee
+niimi,he dances
+nintenikoonssiw,I am an ant
+pisintaw,listen to him
+assin,stone
+ninink,my armpit
+nininkwiin,my armpits
+assinaap,net sinker
+omootay,bottle
+ninsit,my foot
+ninow,my cheek
+nintenaniw,my tongue
+nintiy,my rump
+miikkana,road
+ninciimaaninaan,my boat
+kiciimaaniwaa,your boat
+ciimaanipan,the former boat
+missan,firewood
+nimissiman,my firewood
+nikkak,Canada geese
+ninikkim,my Canada goose
+nikka,Canada goose
+makkwak,bears
+nimakkom,my bear
+ikkwak,lice
+makkwa,bear
+ikkwa,louse
+okiin,their(sing.) mother
+akkiink,on the land
+apwiin,paddles
+apwiink,on the paddle
+ninka,my mother
+akki,land
+apwi,paddle
+ninkotaass,my dress
+waapooyaan,blanket
+nikkonaass,my blanket
+ninkosiss,my son
+nikkan,my bone
+ootena,town
+nikkan,bone
+niiyaass,my flesh
+nintookkanim,my bone sucking tube
+wiiyaass,meat
+niwiiyaassim,my piece of meat
+makkisin,shoe
+nimakkisin,my shoe
+aakim,snowshoe
+nintaakim,my snowshoe
+makkisinenss,little shoe
+nimakkisinenss,my little shoe
+akkikk,pail
+nintakkikk,my pail
+anitt,fish spear
+nintanitt,my fish spear
+apwi,paddle
+nintapwi,my paddle
+assap,net
+nintassap,my net
+assemaa,tobacco
+nintassemaa,my tobacco
+makkakk,box
+ninmakkakk,my box
+mittikwaap,bow
+nimittikwaap,my bow
+okkic,pipe stem
+nintookkic,my pipe stem
+pikkwakk,arrow
+nimpikkwakk,my arrow
+akkikkoonss,small pail
+nintakkikkoonss,my small pail
+waakaakkwat,ax
+niwaakaakkwatom,my ax
+nintaakim,my snowshoe
+kitaakim,your snowshoe
+otaakiman,their(sing.) snowshoe
+nintooppwaakan,my pipe
+kitooppwaakan,your pipe
+otooppwaakanan,their(sing.) pipe
+nimpakamaakan,my club
+nimpwaam,my thigh
+nintoon,my mouth
+ninciimaan,my canoe
+ninciimaan,my boat
+ninkittikaan,my garden
+ninkosiss,my son
+ninsenipaam,my ribbon
+nisenipaam,my ribbon
+ninsit,my foot
+nisit,my foot
+nimpakamaakan,my club
+impakamaakan,my club
+mpakamaakan,my club
+kipakamaakan,your club
+opakamaakan,their(sing.) club
+niiyaw,my body
+kiiyaw,your body
+wiiyaw,their(sing.) body
+nookkomiss,my grandmother
+kookkomiss,your grandmother
+niinisissan,my hair
+niwiinisissan,my hair
+ookomissan,their(sing.) grandmother
+nimookkomaan,my knife
+kimookkomaan,your knife
+omookkomaan,their(sing.) knife
+ninipaakan,my bed
+kinipaakan,your bed
+onipaakan,their(sing.) bed
+ninookan,my hip
+kinookan,your hip
+onookan,their(sing.) hip
+nikkaakkikan,my chest
+kikkaakkikan,your chest
+okkaakkikan,their(sing.) chest
+niwaakaakkwatom,my ax
+kiwaakaakkwatom,your ax
+owaakaakkwatom,their(sing.) ax
+niwiiw,my wife
+kiwiiw,your wife
+wiiwan,their(sing.) wife
+nintapwi,my paddle
+ninka,my mother
+ninink,my wing
+niwaapoosom,my rabbit
+kiwaapoosom,your rabbit
+niwaapoosominaan,our rabbit
+kiwaapoosominaan,your rabbit
+kiwaapoosomiwaa,your rabbit
+ninipaakan,my bed
+kinipaakan,your bed
+onipaakan,their(sing.) bed
+onipaakanini,their(sing.) bed
+ninipaakaninaan,our bed
+kinipaakaninaan,your bed
+kinipaakaniwaa,your bed
+onipaakaniwaa,their bed
+niwaapoosomak,my rabbits
+kiwaapoosomak,your rabbits
+niwaapoosominaanik,our rabbits
+kiwaapoosominaanik,your rabbits
+kiwaapoosomiwaak,your rabbits
+ninipaakanan,my beds
+kinipaakanan,your beds
+onipaakanan,their(sing.) beds
+onipaakanini,their(sing.) beds
+ninipaakaninaanin,our beds
+kinipaakaninaanin,your beds
+kinipaakaniwaan,your beds
+onipaakaniwaan,their beds
+niwaapoosoman,my rabbit
+kiwaapoosoman,your rabbit
+owaapoosoman,their(sing.) rabbit
+owaapoosomini,their(sing.) rabbit
+niwaapoosominaanin,our rabbit
+kiwaapoosominaanin,your rabbit
+kiwaapoosomiwaan,your rabbit
+owaapoosomiwaan,their rabbit
+makkoonssiwi,he is a bear cub
+ikkwepan,the dead woman
+ikkwepanek,the dead women
+ikkwepanen,the dead other woman
+ikkwepanen,the dead other women
+ciimaanipan,the broken canoe
+ciimaanipanen,the broken canoes
+akkikkopan,the broken pail
+ninciimaanipan,the boat I used to own
+kiciimaanipanen,the boats you used to own
+ociimaaniwaapanen,the boats they used to own
+nintakkikkopan,the pail I used to own
+noossipan,my dead father
+ciimaanikopan,the boat there is said to have been
+ciimaanikopanen,the boats there are said to have been
+ikkwekopan,the woman there is said to have been
+ikkwekopanek,the women there are said to have been
+mii imaa akontaapiikinak šinkopaantak akkikkonk.,This I dip a fir bough there in the kettle.
+aniššinaapenk okii-išinawaawaan.,They considered him to be an Indian.
+makkonk išimaakosi.,He smells like a bear.
+akwaciink,outside
+niišink,twice
+ciikiškote,by the fire
+ciikiškotenk,by the fire
+ninšiiššiipimak,my ducks
+ošiiššiipiman,their(sing.) duck
+ošiiššiipiman,their(sing.) ducks
+ciimaaniššan,no-good boats
+nimiššoomissinaanik,our grandfathers
+kimiššoomissinaanin,our grandfather
+kimiššoomissinaanin,our grandfathers
+maškimot,bag
+ciimaanišš,no-good boat
+ninšiiššiipim,my duck
+mišši,stick of firewood
+ikkošš,no-good louse
+šinkwaakk,white pine
+šinkwaakkwak,white pines
+pawa'iminakaawanš,pincherry bush
+pawa'iminakaawanšiik,pincherry bushes
+eškan,ice chisel
+eškanan,ice chisels
+eškan,animal horn
+eškanak,animal horn
+šooniyaa,silver
+šooniyaa,money
+aniipiišš,tea
+aniipiišš,leaf
+pakkmašikan,wheat flour
+pakkwešikan,bread
+pakkwešikan,piece of bread
+oškiinšikokkaanan,eyeglasses
+maškossiw,blade of grass
+maškossiwan,grass
+onišiššiwan John otootaapanen.,John's car is nice.
+onišiššinini John ociimaan.,John's boat is nice.
+onišiššiwan Johnan otootaapaanini.,John's car is nice.
+šiiššiipak,ducks
+šiiššiipan,duck
+iškotewišš,no-good fire
+iškotewaapoo,whiskey
+šiiššiip,duck
+niššiime,my younger sibling
+ošipii'ikanaakk,pencil
+maškimot,bag
+nimaškimot,my bag
+šiiššiip,duck
+ninšiiššiipim,my duck
+šiiššiipenss,little duck
+ninšiiššiipenssim,my little duck
+nintaaškipoocikan,my sawmill
+nincaanš,my nose
+ninšaaponikan,my needle
+nišaaponikan,my needle
+ništikwaan,my head
+kištikwaan,your head
+oštikwaan,their(sing.) head
+nipaakanišš,no-good bed
+ninipaakaniššan,no-good beds
+ninipaakanišš,my no-good bed
+ninipaakaniššan,my no-good beds
+ninipaakaniššinaan,our no-good bed
+waapoošošš,no-good rabbit
+waapoošoššak,no-good rabbit
+niwaapoošomišš,my no-good rabbit
+niwaapoošomiššak,my no-good wabbits
+kiwaapoošomiššiwaa,your no-good rabbit
+nipaašši,he sleeps pitifully
+nipaa ininiwišš,the no-good man sleeps
+ikkwewiššipan,the dead no-good woman
+ciimaaniššipan,the broken no-good canoe
+nintakkikkoššinaapanek,the pails we used to own
+okookkooššimiwaapanen,the dead pigs they used to have
+okookkooššimiwaapanen,the dead pig they used to have
+nimiššoomissinaatok,our grandfathers
+ciimaanipanenk,in the former boat
+ninšiiššiipimiššinaanink,as our no-good duck
+nintayiššipan,my dead no-good dog
+kiciimaaniwaapan,your former canoe
+ociimaaninink,in the other's canoe
+assapaapiinšišš,no-good small thread
+kwiiwišenšišš,no-good boy
+animošišš,no-good dog
+kwiiwišenš,no-good boy
+nimiss,my older sister
+niššiim,my younger sibling
+niinimošš,my sweetheart
+ninošš,my mother's sister
+nintaankošš,my female cross-cousin
+ninšišš,my mother's brother
+nintawem,my sibling of the opposite sex
+nintawemaa,my sibling of the opposite sex
+niitt,my brother-in-law
+niittaa,my brother-in-law
+nintaank,my sister-in-law
+nintaankwe,my sister-in-law
+nookkoo,my grandmother
+nookkomiss,my grandmother
+nimiššoo,my grandfather
+nimiššoomiss,my grandfather
+ninkoss,my son
+ninkosiss,my son
+maam,mother
+nimaamaa,my mother
+tet,father
+nintete,my father
+niin,I
+kiin,you
+wiin,they(sing.)
+niinawint,we
+kiinawint,we
+kiinawaa,you
+wiinawaa,they(plur.)
+niinetta,I alone
+kiinetta,you alone
+wiinetta,they(sing.) alone
+niinettawint,we alone
+kiinettawint,we alone
+kiinettawaa,you alone
+wiinettawaa,they(plur.) alone
+niinittam,me first
+kiinittam,you first
+wiinittam,them(sing.) first
+niinittamawint,us first
+kiinittamawint,us first
+kiinittamawaa,you first
+wiinittamawaa,them(plur.) first
+awiiya,somebody
+kekoo,something
+ninkoci,somewhere
+awanen,who
+wekonen,what
+awenenak nepaacik?,who is sleeping?
+awekwešš,whoever else
+wekotokwešš,whatever else
+awekwenak nepaakwenak?,I wonder who is sleeping?
+awekwenišš,whatever old person
+awekwenišš,whatever old thing
+wekotokwenišš,whatever old thing
+awekwenak tinowak inkiw?,I wonder what sort they are?
+nintayi'iiman,my belongings
+nintaya'aam,my belonging
+aya'aawišš,a bad person
+kicci-aya'aa,an elder
+kette-ayi'ii,an old thing
+wa'aw,this
+a'aw,that
+o'ow,this
+i'iw,that
+o'omaa,here
+i'imaa,there
+o'owiti,over here
+i'iwiti,over there
+akii,land
+kaak,porcupine
+ninkoss,my son
+okkic,pipestem
+aakim,snowshoe
+ociik,fisher
+ociikak,fishers
+nikik,otter
+nikikwak,otters
+šiiššiip,duck
+kaakaakiw,raven
+kookkookko'oo,owl
+miskomin,raspberry
+maškiik,swamp
+maškikki,medicine
+maškote,prairie
+manoomin,wild rice
+kicippisonaapikkoonss,small belt buckle
+kicippison,belt
+kicippisonaapikk,belt buckle
+kaašakenss,cat
+šinkoss,weasel
+tiintiisii,bluejay
+pinessi,thunderbird
+pinessi,eagle
+pine,partridge
+animošš,dog
+nenaappaacinikkessi,mole
+niittaa,my brother-in-law
+niittaawiss,my male cross-cousin
+ninsikoss,my cross aunt
+ninsikosiss,my mother-in-law
+nininkwan,my son-in-law
+nininkwaniss,my cross nephew
+nintoošimiss,my parallel niece
+nintaan,my daughter
+nintaaniss,my daughter
+ninkoss,my son
+ninkosiss,my son
+niikkaan,my male friend
+niikkaan,my brother
+niikkaaniss,my male friend
+niikkaaniss,my brother
+nimiššoomiss,my grandfather
+nimiššoome,my parallel uncle
+niniicaaniss,my child
+oniicaani,he has children
+nookkomiss,my grandmother
+nookko,my grandmother
+nooss,my father
+ninsiniss,my father-in-law
+makkateššip,blackduck
+ininiššip,mallard
+takwaakiššip,fall duck
+šinkoss,weasel
+ninkosiss,my son
+ikkwesenss,girl
+kiikoosenss,minnow
+animošš,dog
+nintaankwe,my sister-in-law
+missaape,giant
+ayaape,buck
+misisse,turkey
+tiintiisi,bluejay
+pinessi,thunderbird
+ašikwamek,dogfish
+missamek,whale
+missassim,giant dog
+waapassimoonss,grey popny
+waapoos,snowshoe hare
+moos,moose
+omaškoos,elk
+missaapoos,jackrabbit
+aanakkwat,cloud
+aanakkwatoon,clouds
+aanakkwat,there are clouds
+aanakkwatini,there are clouds
+piitaanakkwat,clouds approach
+šakaškaantawe,flying squirrel
+šaawanonk,south
+kiišikonk,in the sky
+tewe'ikan,drum
+kaškaapikka'ike,lock
+kisiinkwe'on,towel
+kisiinkkwe'o,they(sing.) wash their own face
+tipaacimon,story
+tipaacimo,they(sing.) tell a story
+kicippison,belt
+kicippiso,they(sing.) gird themself
+waapantison,mirror
+waapantiso,they(sing.) see themself
+appiššimon,mattress
+appikkweššimon,pillow
+minikkwaakan,goblet
+minikkwe,they(sing.) drink
+nipaakan,bed
+nipaa,they(sing.) sleep
+piintaakan,pocket
+piinte,it is inside
+onaakan,dish
+ma'iinkan,wolf
+waapikan,clay
+kikkinoo'amaakan,student
+kikkinoo'amaake,they(sing.) teach
+aašokan,bridge
+aašoke,they(sing.) cross water
+pipikwan,flute
+pipikwe,they(sing.) play flute
+ciimaan,canoe
+ciime,they(sing.) paddle
+kittikaan,garden
+kittike,they(sing.) plant
+otaapaan,wagon
+otaapaan,car
+otaapii,they(sing.) drag
+kakkaaka'okaan,lodge with squared off walls
+kakkaaka'oke,he lives in a lodge with squared off walls
+waakinokaan,dome-shaped lodge
+waakinoke,he lives in a dome-shaped lodge
+sakimekkaan,place of many mosquitoes
+sakimekkaa,there are many mosquitoes
+manitoominenssikkaan,article of beadwork
+manitoominenssikke,he works with beads
+piiwaapikkokkaan,iron mine
+piiwaapikkokko,he mines iron
+moošwaakan,scissors
+wiitikemaakan,spouse
+inawemaakan,relative
+wiiciiwaakan,partner
+wiiciiwaakan,companion
+nakwaakan,snare
+kontaakan,throat
+šiiwittaakan,salt
+sakkattaakan,tinder
+aakkosiwin,sickness
+anami'ewin,praying
+onsaaminkwaamowin,oversleeping
+inentamowin,thought
+inentamowin,thinking
+aššamikoowin,government surplus
+aššamikoowin,ration
+minikkwessiwin,temperance
+papaamittansiwin,disobedience
+nakamon,song
+nakamowin,singing
+ošipii'ikan,piece of writing
+ošipii'ikan,letter of alphabet
+ašipii'ikewin,act of writing
+aatisookkaan,sacred story
+aatisookkewin,telling sacred stories
+nantottamowin,radio
+apwewin,frying pan
+apwaan,roasted meat
+napakissak,board
+šiiwaapoo,vinegar
+akonkossipak,twisted stalk
+kicippisonaapikk,belt buckle
+pakkwešikanimin,wheat
+mantaaminaakk,cornstalk
+šinkopaantak,fir bough
+ote'imin,strawberry
+miskwaapikkite,it is red-hot as metal
+mookkomaan,knife
+waakikkomaan,curved knife
+miskomin,raspberry
+ookkwemin,black cherry
+waapanoomin,white rice
+makkisin,shoe
+piittookkisin,overshoe
+mittikwakkiwin,boot
+kiccikamii,Lake Superior
+šiiwipak,rhubarb
+ote'iminipak,strawberry leaf
+napakissak,plank
+makkakkossak,crate
+makkakkossak,barrel
+kaawaantak,white spruce
+kiišikkaantak,cedar bough
+wiikwaassikamik,birchbark lodge
+aakkosiiwikamik,hospital
+assakkamik,moss
+ininaattik,sugar maple
+maškiikwaattik,tamarack
+ošipii'ikanaattik,pencil
+šinkwaak,white pine
+mantaaminaakk,corncob
+kosikwaakkomin,Juneberry
+aapittawaapikk,half-dollar
+waasseccikanaapikk,window glass
+wiinkašk,sweetgrass
+miskwekin,red trade cloth
+senipaawekin,silk
+waapiškiikin,linen
+waapooyaaniikin,blanket clother
+wiiyaassaapoo,meat broth
+šinkop,fir
+mittikwaap,bow
+assapaap,net twine
+nakwaakaneyaap,snarewire
+wiikop,basswood
+wiikop,basswood inner bark
+miššiiminakaawanš,apple tree
+mittikomiš,white oak
+pakaanimiš,hazelnut bush
+pakaanaakkomiš,hazelnut bush
+ninikk,my hand
+nikkon,my lover
+mištikwaan,my head
+animikkoninc,back of hand
+šiiššiipisit,duck foot
+šinkossiwikan,weasel bone
+niškanš,my nail
+makkokanš,bear claw
+šiiššiipikwan,duck feather
+miikwan,feather
+makkwayaan,bear hide
+nininkwiikwan,my wing
+mittaakkociit,bare ass
+pikkwaakkokan,ankle
+niinak,my penis
+nittawak,my ear
+ninikk,my arm
+nimpwaam,back of my thigh
+nintootooššim,my breast
+nintenikom,my nostril
+nikkwekan,back of my neck
+nikkaakkikan,my chest
+nintiniikan,my shoulderblade
+ninšiikan,small of my back
+nintinimaankan,my shoulder
+ninookan,my hip
+nintaamikkan,my jaw
+nippan,my lung
+nintoontan,my heel
+ninšikwan,my fish tail
+ništikwaan,my head
+ninciinkwan,my thigh
+ninciinkwan,my lap
+nintooskwan,my elbow
+nippikkwan,my back
+nikkakkwan,my shin
+ninaan,my calf
+nikkitin,my vulva
+ninsakiin,my forequarter
+nintoon,my mouth
+niinintip,my brain
+niiyaass,my flesh
+niinisiss,my hair
+nincaanš,my nose
+nimissat,my stomach
+nimissat,my belly
+nikkaat,my leg
+ninciittaat,my sinew
+niipit,my tooth
+ninsit,my foot
+niiyaw,my body
+nintenaniw,my tongue
+nintootikkossiw,my kidney
+niniššiwak,my tesiticle
+nippikemak,my rib
+niškiinšik,my eye
+ninkitik,my knee
+nikkaattik,my forehead
+ninow,my cheek
+ninsow,my animal tail
+onaka'ay,his fish scale
+ninšaka'ay,my skin
+niškattay,my skin
+niškattay,my hide
+nintenkway,my face
+ninakaskway,my palate
+ninkontaškway,my throat
+nimaamaay,my eyebrow
+nininc,my hand
+nintiy,my rump
+niinsop,my gall bladder
+nintiss,my navel
+ninakiš,my intestine
+niškanš,my nail
+ninaškit,my bird tail
+ninaasit,my butt
+ninciit,my rectum
+ninink,my armpit
+šiiššiipikan,duck bone
+miikwan,feather
+waapikwan,white feather
+pineššiwikwan,bird feather
+amikkwayaan,beaver hide
+papakiwayaan,shirt
+namancikaat,left leg
+makkkanš,bear claw
+pepešikookanšii,horse
+makkoonss,bear cub
+ninkosissenss,my little son
+atooppowinenss,small table
+napakissakoonss,small plank
+nininciinss,my finger
+nininciinss,my small hand
+kipiinss,spaling
+kaašakenss,cat
+ciimaanenss,small boat
+masina'ikaanss,small book
+ininiinss,small man
+ootenaanss,small town
+iškotenss,match
+makkakkoonss,small box
+assiniinss,small stone
+ociipikkenss,small root
+maškotepišikki,bison
+naatoopiiwakkikk,water pail
+kicci-waakkaa'ikan,big house
+ninnatoopiiwakkikkook,my water pails
+miinipiittoossicikanipakkwešikan,blueberry pie
+miinipaaškiminassikanipiittoossicikanipakkwešikan,blueberry pie
+maškotepišikkiwiwiiyaass,buffalo meat
+maškotepišikki,bison
+pišikkiwiwiiyaass,beef
+pišikki,cow
+wiiyaass,meat
+iškote,fire
+otaapaan,car
+maškikki,medicine
+iškoteqitaapaan,train
+maškikkiiwikkwe,nurse
