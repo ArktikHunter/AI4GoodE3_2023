@@ -1,4 +1,4 @@
-Ojibwe,English
+Southwestern Ojibwe,English(formatted)
 inini,man
 ininiwak,men
 okimaa,chief
@@ -790,3 +790,118 @@ otaapaan,car
 maškikki,medicine
 iškoteqitaapaan,train
 maškikkiiwikkwe,nurse
+mittikomakkakk,wooden box
+mittikwakkisin,wooden shoe
+miinikiisiss,July
+kookkooššiwaapooyaan,red and grey striped trade blanket
+okkaatikinepik,skink
+šiiššiipanwi,shot
+okkaatakkikk,treaty kettle
+oppwaakanassin,pipestone
+wiikwaassinaakan,birchbark basket
+okkanikkossimaan,gourd squash
+ote'iminiciipikk,strawberry root
+masina'ikaniiwinini,mailman
+tipaacimoowinini,story teller
+waawaaškeššiwisiipi,Deer River
+šooniyaamaškimotenss,wallet
+aniššinaapesiinsipaakkwat,maple sugar
+tootooššaapoopimite,butter
+aniššinaapewakki,Indian land
+ocipwewaniššinaape,Ojibwe Indian
+tootooššaapoowakkikkoonss,cream can
+assemaawippwaakaanss,cigarette
+iškotewitaapaan,train
+maškikkiiwinini,doctor
+aniššinaaapewinini,Indian man
+aniššinaapekkwe,Indian woman
+aniššinaapewikkwe,Indian woman
+makkopimite,bear grease
+mittikociimaan,wooden boat
+mittiwakkikk,Mide water drum
+mittikwemikkwaan,wooden spoon
+siinsipaakkwatonaakan,sugar bowl
+anwiipaaškisikan,shotgun
+assiniipwaan,Assiniboine
+mikkwamiimakkakk,icebox
+mikkwamiiwinaakaanss,drinking glass
+šaakanaaššiiwakkiink,Canada
+ositemiikkanenss,footpath
+ciipemakkakk,coffin
+manoominikkekiisiss,August
+iškwaakaasiinsipaakkwat,sugar of the last sap
+akwanensikewassemaa,chewing tobacco
+takkoniwewinini,policeman
+ošipii'ikewikkwe,secretary
+pappamaacimoomasina'ikan,newspaper
+kiikitoopiiwaapikkonss,telephone
+kimootiškiiwinini,thief
+titipaacimoowinini,story teller
+waassamotaapan,car
+waassamo,they(sing.) flash lightning
+tipaacimo,they(sing.) tell
+kimootiški,they(sing.) are a thief
+kiikito,they(sing.) speak
+papaamaacimo,they(sing.) tell news around
+ošipii'ike,they(sing.) write
+akwanencike,they(sing.) put something into the mouth
+iškwaakaa,it flows last
+manoominikke,they(sing.) make rice
+nootin,there is wind
+nootinoomintimooye,Old Lady Wind
+pisintamoomakkakk,radio
+pipoonotaapaanenss,toboggan
+pipoon,it is winter
+pakwac,wild
+nikaan,leading
+kwayakk,correct
+aapitta,half
+kicci-misko-waapooyaan,big red blanket
+niikaani-kicci-šimaakaniššii-okimaa,general
+kakkakki-makkakkossak,crate
+kicci-ootena,city
+maci-mintimooyenyišš,evil old lady
+maci-aya'aawišš,evil creature
+macaya'aawišš,evil creature
+niici-aniššinaape,my fellow Indian
+niicaniššinaape,my fellow Indian
+tittipi-otaapaan,truck
+tittiptaapaan,truck
+pakwaci-oppin,wild potato
+pakwacippin,wild potato
+aapitta-omootay,pint bottle
+aapittawimootay,pint bottle
+makkate-aniipiišš,black tea
+osaawikkaataakk,carrot
+misko-waapooyaan,red blanket
+ošaawaško-aniipiišš,green tea
+ošaawaškwaniipiišš,green tea
+misko-assin,red pipestone
+miskwassin,red pipestone
+aški-wiiyaass,raw meat
+aanikke-okimaa,vice-chief
+aapittawimootay,half-bottle
+aapittawimootay,pint
+ente-papakiwayaaniikin,cotton cloth
+ettawi-waakaakkwat,double-bladed ax
+niici-akkiwensii,my fellow old man
+niicakkiwensii,my fellow old man
+kakkakki-makkakk,crate
+kette-miikkana,old road
+kicci-ciimaan,big boat
+kiše-manitoo,Christian God
+kitaki-pišiw,bobcat
+kwayakko-šooniyaa,cash
+maci-manitoo,devil
+makkate-aniipiišš,black tea
+mayaki-pine,pheasant
+mino-ikkwesenss,good girl
+misko-ciiss,beet
+miišši-miššiimin,peach
+osaawi-ciiss,turnip
+oški-atooppowin,new table
+pakwaci-animošš,wild dog
+pakwacanimošš,wild dog
+waawiye-makkakkossak,barrel
+waapi-kookkookko'oo,white owl
+waapiški-kookkoošš,white pig
